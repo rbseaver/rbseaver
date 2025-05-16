@@ -1,6 +1,6 @@
 # Rob Seaver, Developer Médiocre
 
-OK, so I don't think I'm actually mediocre, but as a nod to my impostor syndrome, I thought I'd "Developer Extraordinaire" was too much. And admit it, it made you look, right? Plus, I'm studying Cajun French right now, so I'm keeping with the theme.
+OK, so I don't think I'm actually mediocre, but as a nod to my impostor syndrome, I couldn't bring myself to use "Developer Extraordinaire," even in a hyperbolic sense. And admit it, it made you look, right? Plus, I'm studying Cajun French right now, so it's practice!
 
 ## Who am I?
 

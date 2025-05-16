@@ -11,7 +11,7 @@ I'm a software engineer, husband, and father of one human and two cats. I'm a bi
 🎶 Music sustains me. Here are a few bullets about my musical interests:
 
 - 🎙️Old-time folk, blues, and country. Anything pre-1950 really gets my blood pumping.
-- 🪗 Cajun music. This is a recent obsession. I love the accordion and the fiddle. I've also started learning Cajun French, which was unexpected. I was never a big fan of French in school, *mais, asteur moi j'aime apprendre le français Cadienne!*
+- 🪗 Cajun music. This is a recent obsession. I love the accordion and the fiddle. I've also started learning Cajun French, which was unexpected. I was never a big fan of French in school, *mais, asteur moi j'aime apprendre le français Cadien!*
 - 🪕 I play the banjo and guitar, and am teaching myself how to fiddle.
 
 💑 I am married and have a son who just turned 18. We also have two cats, Peter and Gwen. Yes, they're named after the characters in Spider-Man. Peter is a big orange tabby, and Gwen is a petite tuxedo cat.
@@ -25,4 +25,4 @@ I'm a software engineer, husband, and father of one human and two cats. I'm a bi
 
 🏠 I haved lived in Texas for the past twenty-five years, but I grew up in the Northeast &mdash; New Jersey, to be exact. When I first moved here, everyone was so friendly that I thought they were just trying to get something from me. After a few years, I learned how to be "Texas polite" and for the most part, consider myself a Texan now. Every once in a while a New Jersey-ism slips out, but it's rarer with each passing year.
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/robseaver/), or directly through GitHub. Browse through my repos, and enjoy all the stale projects. 😬
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/robseaver/), or directly through GitHub. Browse through my repos, and enjoy all the stale projects. 😬 Lastly, if you're looking for a resume, [here it is](https://rbseaver.github.io/docs/resume)

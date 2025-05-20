@@ -27,6 +27,14 @@ I'm a software engineer, husband, and father of one human and two cats. I'm a bi
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/robseaver/), or directly through GitHub. Browse through my repos, and enjoy all the stale projects. 😬 Lastly, if you're looking for a resume, [here it is](https://rbseaver.github.io/docs/resume)
 
+## Cats
+Because every website needs a cat picture, here are my two cats, Peter and Gwen. Peter is the big orange tabby, and Gwen is the petite tuxedo cat.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" src="photos/peter-gwen.jpg" alt="Peter and Gwen, our two cats, snuggled up on a cozy lounge chair" title="Peter and Gwen, our two cats, snuggled up on a cozy lounge chair" border="1" style="border-radius: 10px; max-width: 100%; height: auto;">
+  <img src="photos/peter-gwen.jpg" alt="Peter and Gwen, our two cats, snuggled up on a cozy lounge chair" title="Peter and Gwen, our two cats, snuggled up on a cozy lounge chair" border="1" style="border-radius: 10px; max-width: 100%; height: auto;">
+</picture>
+
 ## Stats and What-Have-You
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rbseaver&theme=cobalt&border_radius=10&layout=compact&hide_border=true&langs_count=8&card_width=800&hide_title=false&hide=ruby&custom_title=Languages%20I%20Like%20to%20Use)

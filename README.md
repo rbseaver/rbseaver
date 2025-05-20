@@ -26,3 +26,9 @@ I'm a software engineer, husband, and father of one human and two cats. I'm a bi
 🏠 I haved lived in Texas for the past twenty-five years, but I grew up in the Northeast &mdash; New Jersey, to be exact. When I first moved here, everyone was so friendly that I thought they were just trying to get something from me. After a few years, I learned how to be "Texas polite" and for the most part, consider myself a Texan now. Every once in a while a New Jersey-ism slips out, but it's rarer with each passing year.
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/robseaver/), or directly through GitHub. Browse through my repos, and enjoy all the stale projects. 😬 Lastly, if you're looking for a resume, [here it is](https://rbseaver.github.io/docs/resume)
+
+## Stats and What-Have-You
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rbseaver&theme=cobalt&border_radius=10&layout=compact&hide_border=true&langs_count=8&card_width=800&hide_title=false&hide=ruby&custom_title=Languages%20I%20Like%20to%20Use)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbseaver&show_icons=true&theme=cobalt&border_radius=10&hide_border=true&card_width=800&hide_title=false&count_private=true&hide_rank=false&rank_icon=github&custom_title=Sad%20Stats%20😭)

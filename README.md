@@ -35,6 +35,11 @@ Because every website needs a cat picture, here are my two cats, Peter and Gwen.
   <img src="photos/peter-gwen.jpg" alt="Peter and Gwen, our two cats, snuggled up on a cozy lounge chair" title="Peter and Gwen, our two cats, snuggled up on a cozy lounge chair" border="1" style="border-radius: 10px; max-width: 100%; height: auto;">
 </picture>
 
+## Find me on Codewars!
+I do play on Codewars from time to time, so feel free to connect with me over there.
+
+[![Codewars](https://www.codewars.com/users/rbseaver/badges/large)](https://www.codewars.com/users/rbseaver)
+
 ## Stats and What-Have-You
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rbseaver&theme=cobalt&border_radius=10&layout=compact&hide_border=true&langs_count=8&card_width=800&hide_title=false&hide=ruby&custom_title=Languages%20I%20Like%20to%20Use)

@@ -15,6 +15,7 @@ I'm a software engineer, husband, and father of one human and [two cats](./cats.
 - 🪕 I play the banjo and guitar, and am teaching myself how to fiddle.
 
 💑 I am married and have a son who just turned 18. We also have two cats, Peter and Gwen. Yes, they're named after the characters in Spider-Man. Peter is a big orange tabby, and Gwen is a petite tuxedo cat.
+
 📺 The best TV show to ever air is Deadwood. I will fight you on this.
 
 💤I have sleep apnea and use a CPAP machine. While it's helped me get better sleep, my wife is most excited by the fact that I no longer snore.

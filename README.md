@@ -4,7 +4,7 @@ OK, so I don't think I'm actually mediocre, but as a nod to my impostor syndrome
 
 ## Who am I?
 
-I'm a software engineer, husband, and father of one human and two cats. I'm a bit of a goofball, and enjoy playing banjo, guitar, fiddle, with varying degress of competence. So, how about some factoids?
+I'm a software engineer, husband, and father of one human and [two cats](./cats.md). I'm a bit of a goofball, and enjoy playing banjo, guitar, fiddle, with varying degress of competence. So, how about some factoids?
 
 💻 I enjoy writing code (obviously)
 
@@ -26,14 +26,6 @@ I'm a software engineer, husband, and father of one human and two cats. I'm a bi
 🏠 I haved lived in Texas for the past twenty-five years, but I grew up in the Northeast &mdash; New Jersey, to be exact. When I first moved here, everyone was so friendly that I thought they were just trying to get something from me. After a few years, I learned how to be "Texas polite" and for the most part, consider myself a Texan now. Every once in a while a New Jersey-ism slips out, but it's rarer with each passing year.
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/robseaver/), or directly through GitHub. Browse through my repos, and enjoy all the stale projects. 😬 Lastly, if you're looking for a resume, [here it is](https://rbseaver.github.io/docs/resume)
-
-## Cats
-Because every website needs a cat picture, here are my two cats, Peter and Gwen. Peter is the big orange tabby, and Gwen is the petite tuxedo cat.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" src="photos/peter-gwen.jpg" alt="Peter and Gwen, our two cats, snuggled up on a cozy lounge chair" title="Peter and Gwen, our two cats, snuggled up on a cozy lounge chair" border="1" style="border-radius: 10px; max-width: 100%; height: auto;">
-  <img src="photos/peter-gwen.jpg" alt="Peter and Gwen, our two cats, snuggled up on a cozy lounge chair" title="Peter and Gwen, our two cats, snuggled up on a cozy lounge chair" border="1" style="border-radius: 10px; max-width: 100%; height: auto;">
-</picture>
 
 ## Find me on Codewars!
 I do play on Codewars from time to time, so feel free to connect with me over there.
